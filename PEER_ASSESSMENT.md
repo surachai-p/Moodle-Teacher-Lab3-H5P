@@ -118,7 +118,7 @@
 |------|---------|-----------|-----------|
 | 1 | Interactive Video | 10 | 10 |
 | 2 | Drag and Drop | 10 | 10 |
-| 3 | Fill in the Blanks | 5 | 10 |
+| 3 | Fill in the Blanks | 5 | 5 |
 | 4 | Branching Scenario | 15 | 15 |
 | 5 | Mark the Words | 5 | 5 |
 | 6 | Sort the Paragraphs | 5 | 5 |
