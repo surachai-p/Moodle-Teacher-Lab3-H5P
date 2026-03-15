@@ -41,6 +41,8 @@
 
 **คะแนนส่วนที่ 1 รวม: 0 / 10**
 
+**หมายเหตุ**  ไม่มี Interactive Video ในเว็บ
+
 ---
 
 ## ส่วนที่ 2: Drag and Drop — YAML Structure Mapping (10 คะแนน)
